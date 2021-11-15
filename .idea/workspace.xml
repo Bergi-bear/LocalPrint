@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28322adf-026d-4d46-bcd7-ea38edfa18f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1251.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-КОПИЯ.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Новая вкладка.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core.lua" beforeDir="false" afterPath="$PROJECT_DIR$/Core.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/list.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +49,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Service\IdeaProjects\LocalPrint" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Service\IdeaProjects\LocalPrint" />
     </key>
@@ -109,11 +118,30 @@
       <option name="project" value="LOCAL" />
       <updated>1636979218617</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Добавил файлы">
+      <created>1636979834054</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636979834054</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Я сделяль" />
-    <option name="LAST_COMMIT_MESSAGE" value="Я сделяль" />
+    <MESSAGE value="Добавил файлы" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил файлы" />
   </component>
 </project>

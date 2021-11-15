@@ -4,19 +4,60 @@
 --- DateTime: 15.11.2021 14:29
 ---
 do
-    local fileName=""
-    --DIR /b > 123.txt
-    os.execute("DIR /b > list.txt")
-    local test = "123" --io.read("list.txt")
-    print(test.." err")
+    local function PrintInTable(pdfTable)
+        if #pdfTable>=1 then
+            for i=1,#pdfTable do
+                --print("Пробую напечатать "..pdfTable[i])
+                --os.execute("PDFtoPrinter"..pdfTable[i])
+            end
+        else
+            print(" нет файлов для печати")
+        end
+    end
+    local function sleep(n)
+        if n > 0 then
+            os.execute("ping -n " .. tonumber(n + 1) .. " localhost > NUL")
+        end
+    end
+    --os.execute("chcp 1251")
+    os.execute("1251.bat")
+    --print("перед тестом")
+    local file, err = io.open("list.txt", "r") -- Открыть файл для чтения
+    local table={}
+    local pdfTable={}
+    if file then
+        -- Проверить, что он открылся
+        for i = 1, 50 do
+            table[i] = file:read()
+
+            --print(string.find (tostring(table[i]), ".pdf"))
+            if string.find (tostring(table[i]), ".pdf") then
+                local k=1
+                print(table[i])
+                pdfTable[k]=table[i]
+                k=k+1
+            end
+            if not table[i] then
+                break
+            end
+            --print(table[i])
+        end
+        file:close()                           -- Закрыть файл
+    else
+        io.stderr:write(err, '\n')             -- Если не открылся, то вывести ошибку
+    end
+    --print("После",table[1])
     --os.execute("PDFtoPrinter"..fileName)
 
-    function sleep(n)
-        if n > 0 then os.execute("ping -n " .. tonumber(n+1) .. " localhost > NUL") end
-    end
+    PrintInTable(pdfTable)
 
-    for i=1, 12 do
+
+
+
+
+    for i = 1, 12 do
         --sleep(2)
         --print(i)
     end
 end
+
