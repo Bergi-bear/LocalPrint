@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28322adf-026d-4d46-bcd7-ea38edfa18f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Core.lua" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Core.lua" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,18 +25,44 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="u24xuwuf" />
+  </component>
   <component name="ProjectId" id="20xAEwYZglaCeCg9T67TmeDporu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Service\IdeaProjects\LocalPrint" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run.lua" type="lua.app" factoryName="Lua Application" temporary="true">
+      <option name="program" value="C:\Users\Service\IdeaProjects\LocalPrint\lua53.exe" />
+      <option name="file" value="$PROJECT_DIR$/Core.lua" />
+      <option name="workingDir" value="C:\Users\Service\IdeaProjects\LocalPrint" />
+      <option name="debuggerType" value="2" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Lua Application.Run.lua" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -51,6 +76,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -76,29 +102,18 @@
       <option name="project" value="LOCAL" />
       <updated>1636977825269</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Я сделяль">
+      <created>1636979218617</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636979218617</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Я сделяль" />
     <option name="LAST_COMMIT_MESSAGE" value="Я сделяль" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="363" y="101" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1636977998883">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="363" y="101" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1636977998883" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1636977824666">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1636977824666" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1636978572438">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1636978572438" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1636978660162">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1636978660162" />
   </component>
 </project>
