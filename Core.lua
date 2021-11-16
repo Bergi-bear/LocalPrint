@@ -5,7 +5,7 @@
 ---
 ---
 do
-    local function PrintInTable(pdfTable)
+    function PrintInTable(pdfTable)
         if #pdfTable >= 1 then
             for i = 1, #pdfTable do
                 print("Пробую напечатать " .. "\"" .. pdfTable[i] .. "\"")
@@ -17,13 +17,13 @@ do
             print("Нет файлов для печати")
         end
     end
-    local function sleep(n)
+    function sleep(n)
         if n > 0 then
             os.execute("ping -n " .. tonumber(n + 1) .. " localhost > NUL")
         end
     end
 
-    local function GetFileForPrintAndPrint()
+    function GetFileForPrintAndPrint()
         os.execute("1251.bat")
         local file, err = io.open("list.txt", "r") -- Открыть файл для чтения
         local table = {}
