@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28322adf-026d-4d46-bcd7-ea38edfa18f4" name="Default Changelist" comment="" />
+    <list default="true" id="28322adf-026d-4d46-bcd7-ea38edfa18f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +79,7 @@
       </list>
     </option>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -145,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637060347217</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Done">
+      <created>1637060417037</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1637060417037</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,13 +162,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Я сделяль" />
@@ -168,35 +176,5 @@
     <MESSAGE value="Всё работает" />
     <MESSAGE value="Done" />
     <option name="LAST_COMMIT_MESSAGE" value="Done" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1637060346682">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1637060346682" />
-    <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1637056496059">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1637056496059" />
-    <state width="1306" height="176" key="GridCell.Tab.0.center" timestamp="1637056496059">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1637056496059" />
-    <state width="1306" height="176" key="GridCell.Tab.0.left" timestamp="1637056496059">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1637056496059" />
-    <state width="1306" height="176" key="GridCell.Tab.0.right" timestamp="1637056496059">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1637056496059" />
-    <state x="275" y="85" key="Vcs.Push.Dialog.v2" timestamp="1637060348706">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="85" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1637060348706" />
-    <state x="379" y="96" width="607" height="536" key="find.popup" timestamp="1637054286294">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="379" y="96" width="607" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1637054286294" />
   </component>
 </project>
