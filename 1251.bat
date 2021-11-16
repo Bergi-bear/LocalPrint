@@ -1,2 +1,2 @@
-chcp 1251 
+chcp 1251
 DIR /b > list.txt
