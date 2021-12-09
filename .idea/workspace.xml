@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28322adf-026d-4d46-bcd7-ea38edfa18f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1251.bat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Core.lua" beforeDir="false" afterPath="$PROJECT_DIR$/Core.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/list.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637140224173</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add hidden Run, remove chp1251">
+      <created>1639055973396</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1639055973396</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,6 +222,7 @@
     <MESSAGE value="Всё работает" />
     <MESSAGE value="Done" />
     <MESSAGE value="Картинки" />
-    <option name="LAST_COMMIT_MESSAGE" value="Картинки" />
+    <MESSAGE value="Add hidden Run, remove chp1251" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add hidden Run, remove chp1251" />
   </component>
 </project>

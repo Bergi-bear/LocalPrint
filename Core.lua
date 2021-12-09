@@ -8,8 +8,8 @@ do
     function PrintInTable(pdfTable)
         if #pdfTable >= 1 then
             for i = 1, #pdfTable do
-                --print("Пробую напечатать " .. "\"" .. pdfTable[i] .. "\"")
-                --os.execute("PDFtoPrinter " .. "\"" .. pdfTable[i] .. "\"")
+                print("Пробую напечатать " .. "\"" .. pdfTable[i] .. "\"")
+                os.execute("PDFtoPrinter " .. "\"" .. pdfTable[i] .. "\"")
                 os.remove(pdfTable[i])
             end
             --os.execute("PDFtoPrinter ".."test.pdf")
@@ -28,9 +28,6 @@ do
 
         os.execute("chcp 1251")
         os.execute("DIR /b > list.txt")
-        os.execute("cls")
-        --os.exit()
-       -- os.execute("%1@mshta vbscript:Execute(\"CreateObject(\"\"Wscript.Shell\"\").Run \"\"\"\"\"\"%~f0\"\"\"\" :\"\",0:Close()\")& exit/b")
         local file, err = io.open("list.txt", "r") -- Открыть файл для чтения
         local table = {}
         local pdfTable = {}
