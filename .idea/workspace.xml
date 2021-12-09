@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28322adf-026d-4d46-bcd7-ea38edfa18f4" name="Default Changelist" comment="" />
+    <list default="true" id="28322adf-026d-4d46-bcd7-ea38edfa18f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1251.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core.lua" beforeDir="false" afterPath="$PROJECT_DIR$/Core.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/list.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +53,7 @@
       <recent name="C:\Users\Service\IdeaProjects\LocalPrint" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Lua Application.Run.lua">
     <configuration name="Run.lua" type="lua.app" factoryName="Lua Application" temporary="true">
       <option name="program" value="C:\Users\Service\IdeaProjects\LocalPrint\lua53.exe" />
       <option name="file" value="$PROJECT_DIR$/Core.lua" />
@@ -59,9 +64,20 @@
       <option name="showConsole" value="true" />
       <method v="2" />
     </configuration>
+    <configuration name="test2.lua" type="lua.app" factoryName="Lua Application" temporary="true">
+      <option name="program" value="lua.exe" />
+      <option name="file" value="$PROJECT_DIR$/test2.lua" />
+      <option name="workingDir" value="$PROJECT_DIR$/" />
+      <option name="debuggerType" value="2" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Lua Application.Run.lua" />
+        <item itemvalue="Lua Application.test2.lua" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637139424124</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Картинки">
+      <created>1637140224173</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1637140224173</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,9 +1,10 @@
 .idea
-1251.bat
 Core.lua
+HiddenRun.vbs
 list.txt
 lua53.dll
 lua53.exe
+lua53.lnk
 PDFtoPrinter.exe
 ReadMe
 README.md
