@@ -1,5 +1,6 @@
 .idea
 Core.lua
+GG.lua
 HiddenRun.vbs
 list.txt
 lua53.dll
